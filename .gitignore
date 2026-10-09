@@ -32,3 +32,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Gradle ###
+.gradle/
+build/
+
+### Local API credentials ###
+weather.properties
